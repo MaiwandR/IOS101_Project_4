@@ -2,7 +2,7 @@
 
 Submitted by: **Maiwand Raheem**
 
-**Trivia** is an app that ... [TODO] 
+**Trivia** is an app that gives the user a 5-question trivia quiz.
 
 Time spent: **2** hours spent in total
 
